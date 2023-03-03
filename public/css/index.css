@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    width: 80vw;
+}
+
+.container {
+    background-color: rgb(229, 229, 44);
+    width: 100vw;
+    padding: 30px;
+    border-radius: 5px;
+    margin: auto;
+}
+
+body .btn {
+    margin-top: 20px;
+}
+
+ul {
+    width: 80%;
+}
+
+li {
+    width: 100%;
+}
